@@ -1,0 +1,317 @@
+[
+ {
+  "ticker": "XLK",
+  "status": "ok",
+  "mode": "full",
+  "rows": 7008,
+  "first": "1998-12-22",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:31-05:00"
+ },
+ {
+  "ticker": "VGT",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5726,
+  "first": "2004-01-30",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:32-05:00"
+ },
+ {
+  "ticker": "IYW",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6653,
+  "first": "2000-05-19",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:32-05:00"
+ },
+ {
+  "ticker": "XLF",
+  "status": "ok",
+  "mode": "full",
+  "rows": 7008,
+  "first": "1998-12-22",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:33-05:00"
+ },
+ {
+  "ticker": "VFH",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5726,
+  "first": "2004-01-30",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:33-05:00"
+ },
+ {
+  "ticker": "IYF",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6648,
+  "first": "2000-05-26",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:34-05:00"
+ },
+ {
+  "ticker": "XLE",
+  "status": "ok",
+  "mode": "full",
+  "rows": 7008,
+  "first": "1998-12-22",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:34-05:00"
+ },
+ {
+  "ticker": "VDE",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5559,
+  "first": "2004-09-29",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:35-05:00"
+ },
+ {
+  "ticker": "IYE",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6634,
+  "first": "2000-06-16",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:35-05:00"
+ },
+ {
+  "ticker": "XLV",
+  "status": "ok",
+  "mode": "full",
+  "rows": 7008,
+  "first": "1998-12-22",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:36-05:00"
+ },
+ {
+  "ticker": "VHT",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5726,
+  "first": "2004-01-30",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:36-05:00"
+ },
+ {
+  "ticker": "IYH",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6634,
+  "first": "2000-06-16",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:37-05:00"
+ },
+ {
+  "ticker": "XLI",
+  "status": "ok",
+  "mode": "full",
+  "rows": 7008,
+  "first": "1998-12-22",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:37-05:00"
+ },
+ {
+  "ticker": "VIS",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5559,
+  "first": "2004-09-29",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:38-05:00"
+ },
+ {
+  "ticker": "IYJ",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6615,
+  "first": "2000-07-14",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:38-05:00"
+ },
+ {
+  "ticker": "XLY",
+  "status": "ok",
+  "mode": "full",
+  "rows": 7008,
+  "first": "1998-12-22",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:38-05:00"
+ },
+ {
+  "ticker": "VCR",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5726,
+  "first": "2004-01-30",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:39-05:00"
+ },
+ {
+  "ticker": "IYC",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6626,
+  "first": "2000-06-28",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:39-05:00"
+ },
+ {
+  "ticker": "XLP",
+  "status": "ok",
+  "mode": "full",
+  "rows": 7008,
+  "first": "1998-12-22",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:40-05:00"
+ },
+ {
+  "ticker": "VDC",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5726,
+  "first": "2004-01-30",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:41-05:00"
+ },
+ {
+  "ticker": "IYK",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6634,
+  "first": "2000-06-16",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:41-05:00"
+ },
+ {
+  "ticker": "XLU",
+  "status": "ok",
+  "mode": "full",
+  "rows": 7008,
+  "first": "1998-12-22",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:42-05:00"
+ },
+ {
+  "ticker": "VPU",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5726,
+  "first": "2004-01-30",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:42-05:00"
+ },
+ {
+  "ticker": "IDU",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6632,
+  "first": "2000-06-20",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:43-05:00"
+ },
+ {
+  "ticker": "XLB",
+  "status": "ok",
+  "mode": "full",
+  "rows": 7008,
+  "first": "1998-12-22",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:43-05:00"
+ },
+ {
+  "ticker": "VAW",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5726,
+  "first": "2004-01-30",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:44-05:00"
+ },
+ {
+  "ticker": "IYM",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6632,
+  "first": "2000-06-20",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:44-05:00"
+ },
+ {
+  "ticker": "XLC",
+  "status": "ok",
+  "mode": "full",
+  "rows": 2105,
+  "first": "2018-06-19",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:44-05:00"
+ },
+ {
+  "ticker": "VOX",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5559,
+  "first": "2004-09-29",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:45-05:00"
+ },
+ {
+  "ticker": "IYZ",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6648,
+  "first": "2000-05-26",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:45-05:00"
+ },
+ {
+  "ticker": "VNQ",
+  "status": "ok",
+  "mode": "full",
+  "rows": 5559,
+  "first": "2004-09-29",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:46-05:00"
+ },
+ {
+  "ticker": "XLRE",
+  "status": "ok",
+  "mode": "full",
+  "rows": 2783,
+  "first": "2015-10-08",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:46-05:00"
+ },
+ {
+  "ticker": "IYR",
+  "status": "ok",
+  "mode": "full",
+  "rows": 6633,
+  "first": "2000-06-19",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:47-05:00"
+ },
+ {
+  "ticker": "SPY",
+  "status": "ok",
+  "mode": "full",
+  "rows": 8498,
+  "first": "1993-01-29",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:47-05:00"
+ },
+ {
+  "ticker": "^IRX",
+  "status": "ok",
+  "mode": "full",
+  "rows": 16694,
+  "first": "1960-01-04",
+  "last": "2026-11-02",
+  "updated_at": "2026-11-03T03:03:48-05:00"
+ }
+]

@@ -1,0 +1,47 @@
+# Sector ETF drawdown strategy - configuration
+# Paths are relative to this file's directory.
+
+[data]
+dir = "data"
+
+[backtest]
+start = "2000-01-01"          # features use the full history before this, for warm-up
+end = ""                      # empty = latest available
+initial_capital = 100000
+slippage_bps = 5              # per side
+commission = 0.0              # USD per order
+cash_yield = true             # idle cash earns the 13-week T-bill rate (^IRX)
+min_dollar_volume = 10000000  # point-in-time liquidity filter (63d median close*volume)
+
+[periods]                     # first = in-sample, second = out-of-sample, others = reporting slices
+in_sample = ["2000-01-01", "2012-12-31"]
+out_of_sample = ["2013-01-01", "2099-12-31"]
+p2000s = ["2000-01-01", "2009-12-31"]
+p2010s = ["2010-01-01", "2019-12-31"]
+p2020s = ["2020-01-01", "2099-12-31"]
+
+[grid]
+fixed_thresholds = [0.20, 0.30, 0.40, 0.50, 0.60]
+dynamic_quantiles = [0.05, 0.10, 0.20]
+sector_thresholds = true
+entries = []                  # empty = all in strategy.ENTRY_MODES
+exits = []                    # empty = all in strategy.EXITS
+max_positions = [3, 5, 8, 11]
+
+# Chosen from the IN-SAMPLE (2000-2012) ranking: the fix40|E_sma200 family led it.
+# This is a starting point to review, not a recommendation.
+[detail]                      # strategy shown in detail in the report
+threshold_kind = "fixed"
+threshold_value = 0.40
+entry = "E_sma200"
+exit = "hold2y"
+max_positions = 5
+
+[live]                        # strategy used by `signals`
+threshold_kind = "fixed"
+threshold_value = 0.40
+entry = "E_sma200"
+exit = "hold2y"
+max_positions = 5
+start = "2000-01-01"          # simulation start for the live book
+capital = 100000              # orders are scaled to this capital
